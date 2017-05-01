@@ -3,8 +3,9 @@ fa_logo: fa-cube
 
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  Home: /template/index.html
+  Post: /template/post.html
+  Archives: /template/archive.html
   About: /about.html
   Contact: /contact.html
 
